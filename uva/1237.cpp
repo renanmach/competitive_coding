@@ -1,4 +1,4 @@
-//https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3678
+// https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3678
 // 1237 - Expert Enough?
 
 using namespace std;
